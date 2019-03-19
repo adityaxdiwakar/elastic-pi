@@ -1,7 +1,7 @@
 # elastic-pi
 🥧 Calculating Pi in Python using elastic collisions
 
-##Usage 
+## Usage 
 
 ```
 python main.py [digits of pi to calculate]
